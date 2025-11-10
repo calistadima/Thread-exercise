@@ -7,7 +7,7 @@ public class VoteTask implements Runnable {
 
     private static final String DB_URL = "jdbc:mysql://localhost:3307/db_latihan_pbo";
     private static final String USER = "root";
-    private static final String PASS = ""; // Sesuaikan dengan password Anda
+    private static final String PASS = ""; 
 
     private String userId;
     private String pilihan;

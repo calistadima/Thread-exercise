@@ -18,7 +18,6 @@ public class MainVotingApp {
                 pilihanKandidat = "Kandidat B";
             }
 
-            // Buat ID user unik untuk simulasi
             String userId = "User-" + i;
             
             // Setiap tugas berisi data vote yang spesifik
